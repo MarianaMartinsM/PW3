@@ -1,0 +1,18 @@
+body{
+    background-color: rgb(247, 238, 255);
+   position: center;
+   }
+   .card
+   {
+      
+       background-color: rgb(226, 235, 253);
+   
+   }
+   .container-fluid{
+      background-color: rgb(253, 247, 247);
+   }
+   .navbar-brand{
+       color: cornflowerblue;
+       font-family: Georgia, 'Times New Roman', Times, serif;
+   }
+   
